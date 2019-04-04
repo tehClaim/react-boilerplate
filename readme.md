@@ -1,3 +1,1 @@
-# Expensify Application
-
-Dummy app from udemy.com/react-2nd-edition
+# Boilerplate for React Application
